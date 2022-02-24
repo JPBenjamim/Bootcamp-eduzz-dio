@@ -1,2 +1,2 @@
-# Bootcamp-eduzz-dio
+# Bootcamp-eduzz-dio 🖥️
 Minha jornada no bootcamp Eduzz
